@@ -6,7 +6,6 @@ function CartTotals({value}) {
         cartSubTotal,
         cartTax,
         cartTotal,
-        cart,
         clearCart
       } = value;
 
